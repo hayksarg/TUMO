@@ -7,6 +7,7 @@
 	objects = {
 
 /* Begin PBXBuildFile section */
+		2BBE0B941F1655D80018FC30 /* maxresdefault.jpg in Resources */ = {isa = PBXBuildFile; fileRef = 2BBE0B931F1655D80018FC30 /* maxresdefault.jpg */; };
 		60521B611F14F095002315B7 /* AppDelegate.swift in Sources */ = {isa = PBXBuildFile; fileRef = 60521B601F14F095002315B7 /* AppDelegate.swift */; };
 		60521B681F14F095002315B7 /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 60521B671F14F095002315B7 /* Assets.xcassets */; };
 		60521B6B1F14F095002315B7 /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 60521B691F14F095002315B7 /* LaunchScreen.storyboard */; };
@@ -14,6 +15,7 @@
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
+		2BBE0B931F1655D80018FC30 /* maxresdefault.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = maxresdefault.jpg; sourceTree = "<group>"; };
 		60521B5D1F14F095002315B7 /* TUMO.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = TUMO.app; sourceTree = BUILT_PRODUCTS_DIR; };
 		60521B601F14F095002315B7 /* AppDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AppDelegate.swift; sourceTree = "<group>"; };
 		60521B671F14F095002315B7 /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
@@ -55,6 +57,7 @@
 				60521B601F14F095002315B7 /* AppDelegate.swift */,
 				60521B721F14F3F4002315B7 /* MyViewController.swift */,
 				60521B671F14F095002315B7 /* Assets.xcassets */,
+				2BBE0B931F1655D80018FC30 /* maxresdefault.jpg */,
 				60521B691F14F095002315B7 /* LaunchScreen.storyboard */,
 				60521B6C1F14F095002315B7 /* Info.plist */,
 			);
@@ -122,6 +125,7 @@
 			buildActionMask = 2147483647;
 			files = (
 				60521B6B1F14F095002315B7 /* LaunchScreen.storyboard in Resources */,
+				2BBE0B941F1655D80018FC30 /* maxresdefault.jpg in Resources */,
 				60521B681F14F095002315B7 /* Assets.xcassets in Resources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
@@ -292,6 +296,7 @@
 				60521B711F14F095002315B7 /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
 		};
 /* End XCConfigurationList section */
 	};
